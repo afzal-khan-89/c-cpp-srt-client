@@ -1,0 +1,3 @@
+/home/afzal/ingenic/work-space/media-srt/SERVER_SRT_PROD/build/CMakeFiles/srt_server.dir
+/home/afzal/ingenic/work-space/media-srt/SERVER_SRT_PROD/build/CMakeFiles/edit_cache.dir
+/home/afzal/ingenic/work-space/media-srt/SERVER_SRT_PROD/build/CMakeFiles/rebuild_cache.dir
